@@ -1,5 +1,5 @@
 {
-  "name": "HelloWorld2",
+  "name": "jandy-helloworld",
   "version": "1.0.0",
   "description": "Prints hello world.",
   "main": "index.js",
